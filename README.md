@@ -31,39 +31,6 @@ Sistem ini masih sederhana dan tidak menggunakan fitur login atau autentikasi pe
 
 ---
 
-# 🔧 Website Manajemen Servis Elektronik
-
-Sistem ini adalah aplikasi web berbasis **PHP Native, MySQL, HTML, CSS, dan JavaScript** yang digunakan untuk mengelola layanan servis elektronik dan pemesanan dari pelanggan.
-
----
-
-## 📌 Gambaran Proyek
-
-Website ini dibuat untuk membantu usaha jasa servis elektronik dalam:
-- Menampilkan daftar layanan servis
-- Menerima pesanan dari pelanggan
-- Mengelola data layanan
-- Melihat data pesanan yang masuk
-
-Sistem ini masih sederhana dan tidak menggunakan fitur login atau autentikasi pengguna.
-
----
-
-## 🚀 Fitur Sistem
-
-### 👤 Fitur Pengguna (Pelanggan)
-- Melihat daftar layanan servis
-- Melihat detail layanan (nama, deskripsi, harga, gambar)
-- Mengisi form pemesanan servis
-
-### 🛠️ Fitur Pengelola (Operator)
-- Melihat daftar pesanan pelanggan
-- Menambah layanan baru
-- Mengubah data layanan
-- Menghapus layanan
-
----
-
 ## 📂 Struktur Project
 
 ```bash
